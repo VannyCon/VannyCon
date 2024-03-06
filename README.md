@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I'm Currently Learning<br>🧠 Strive to expand Knowledge<br>📚 Currently BSIT Student at SUNN
+🌱 I'm Currently Learning<br>🧠 Strive to expand Knowledge<br>🔍 I'm Currently Exploring<br>🚀 Strive to Broaden Horizons<br>
+
 ![Screenshot 2024-03-06 202222](https://github.com/VannyCon/VannyCon/assets/120610880/2dee6f40-08d9-45f8-81aa-9b1fe6455164)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VannyCon#0066) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/auhok.gege) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alaka.nurse/) 
